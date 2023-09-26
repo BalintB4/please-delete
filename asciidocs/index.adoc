@@ -1,6 +1,7 @@
 = Index page
 ifndef::imagesdir[:imagesdir: images]
 
+== Hallo 4BHIF!
 image::img.png[]
 
 
